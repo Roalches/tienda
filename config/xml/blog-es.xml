@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>¿Cuáles son los mejores bancos de imágenes para tu tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/bancos-de-imagenes</link>
+    <description>Usar fotos de bancos de imágenes es un factor que, cada vez más tiendas online están llevando a cabo, para dar a sus negocios un aspecto mucho más atractivo y profesional.</description>
+     <pubDate>Wed, 05 Sep 2018 11:56:22 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/bancos-de-imagenes</guid>
+  </item>
+  <item>
+    <title>¿Cómo saber si Google ha penalizado la Web de mi eCommerce y cómo solucionarlo?</title>
+    <link>https://www.prestashop.com/es/blog/penalizacion-de-google</link>
+    <description>A menudo, cuando notamos que una página web desciende en el número de visitas o en el número de keywords posicionadas en el TOP 10 del buscador, siempre se dice lo mismo ¡Google me ha puesto una pe</description>
+     <pubDate>Tue, 04 Sep 2018 17:20:13 +0200</pubDate>
+ <dc:creator>Borja Aranda Vaquero</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/penalizacion-de-google</guid>
+  </item>
+  <item>
+    <title>¿Qué es una reseña y por qué benefician a la venta de tus productos?</title>
+    <link>https://www.prestashop.com/es/blog/por-que-todos-los-vendedores-online-deberian-permitir-las-resenas-de-producto</link>
+    <description>En tu propia tienda online, ¿permites que tus clientes puedan dejar reseñas de productos para que otros usuarios comprueben la efectividad de tu servicio?</description>
+     <pubDate>Wed, 29 Aug 2018 07:50:53 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/por-que-todos-los-vendedores-online-deberian-permitir-las-resenas-de-producto</guid>
+  </item>
+  <item>
+    <title>¿Qué características debe tener un eCommerce del sector Alimentario?</title>
+    <link>https://www.prestashop.com/es/blog/caracteristicas-tienda-online-alimentacion</link>
+    <description>Crear un eCommerce agroalimentario o del sector de la alimentación es dar un paso ineludible para todas aquellas empresas que, teniendo un negocio de este tipo en el &quot;offline&quot;, quieren sobrevivir e</description>
+     <pubDate>Mon, 27 Aug 2018 20:38:07 +0200</pubDate>
+ <dc:creator>Mariano Larrazábal</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/caracteristicas-tienda-online-alimentacion</guid>
+  </item>
+  <item>
+    <title>¿Cómo puedo crear cupones de descuento en Prestashop 1.7 y 1.6?</title>
+    <link>https://www.prestashop.com/es/blog/crear-cupones-descuento</link>
+    <description>¿Conoces el poder que tiene ofrecer y crear cupones descuento como forma de promoción de tus productos?</description>
+     <pubDate>Mon, 27 Aug 2018 19:37:08 +0200</pubDate>
+ <dc:creator>Carlos Cámara</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-cupones-descuento</guid>
+  </item>
+  <item>
+    <title>Doofinder, ¿qué es y cómo usarlo para buscar internamente en tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/doofinder</link>
+    <description>¿Aún no conoces las ventajas que proporciona Doofinder a tu negocio en Internet?</description>
+     <pubDate>Thu, 23 Aug 2018 14:25:46 +0200</pubDate>
+ <dc:creator>doofinder_es</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/doofinder</guid>
+  </item>
+  <item>
+    <title>¿Qué métodos de fidelización de clientes debo usar en mi tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/los-mejores-metodos-de-fidelizacion-de-clientes</link>
+    <description>¿Aún no conoces cuáles son los métodos más efectivos de fidelización de clientes dentro de una tienda online?</description>
+     <pubDate>Wed, 22 Aug 2018 07:41:00 +0200</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/los-mejores-metodos-de-fidelizacion-de-clientes</guid>
+  </item>
+  <item>
+    <title>¿Qué es un Webinar y qué beneficios tiene para tu tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-un-webinar</link>
+    <description>Una de las estrategias digitales que más impulso ha alcanzado en los últimos tiempos y que mejor les está funcionando hoy en día a las empresas son los &quot;Webinars&quot;.</description>
+     <pubDate>Mon, 20 Aug 2018 20:48:45 +0200</pubDate>
+ <dc:creator>María Martín Parrilla</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-un-webinar</guid>
+  </item>
+  <item>
+    <title>¿Cómo elegir las fotografías de producto para la Web de tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/fotos-de-producto-los-5-errores-que-no-deberia-cometer-en-su-tienda-online</link>
+    <description>De entre todos los elementos que componen una tienda en Internet, quizás la fotografía de producto sea uno de los más relevantes a la hora de atraer la atención de tu público potencial.</description>
+     <pubDate>Wed, 15 Aug 2018 11:42:25 +0200</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/fotos-de-producto-los-5-errores-que-no-deberia-cometer-en-su-tienda-online</guid>
+  </item>
+  <item>
+    <title>¿Cómo aumentar el tráfico Web en tu tienda online de forma efectiva?</title>
+    <link>https://www.prestashop.com/es/blog/cinco-ideas-para-aumentar-el-trafico-de-su-sitio-web</link>
+    <description>Es evidente que el éxito de una tienda online pasa, entre otros muchos factores, por conseguir aumentar el tráfico Web.</description>
+     <pubDate>Wed, 08 Aug 2018 06:52:00 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/cinco-ideas-para-aumentar-el-trafico-de-su-sitio-web</guid>
+  </item>
+  </channel>
+</rss>
