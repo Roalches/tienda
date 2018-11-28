@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-10 19:10:11
+/* Smarty version 3.1.32, created on 2018-11-27 23:06:35
   from 'module:psimagesliderviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b96ebc35afdf5_83639446',
+  'unifunc' => 'content_5bfdf82b57b948_17555536',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,43 +18,28 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5b96ebc35afdf5_83639446 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bfdf82b57b948_17555536 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\xampp\htdocs\prestashop/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl -->
   <div id="carousel" data-ride="carousel" class="carousel slide" data-interval="5000" data-wrap="true" data-pause="hover">
     <ul class="carousel-inner" role="listbox">
               <li class="carousel-item active" role="option" aria-hidden="false">
-          <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-ES&amp;utm_content=download">
+          <a href="http://localhost:8080/prestashop/inicio/23-pokemon-sol.html">
             <figure>
-              <img src="http://localhost:8080/prestashop/modules/ps_imageslider/images/2e9e32d9df1ba7eae8b179deb9b165dcbfed994e__logo__pokemon__t20__serie_sol_y_luna_by_adfpf1-dap4sq9.png" alt="">
-                              <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase"></h2>
-                  <div class="caption-description"><p><span style="color:#000000;"><strong>Mas solicitados</strong></span></p>
-<p><span style="color:#000000;">Sumérgete en la región de Alola con este nuevo titulo de la franquicia de Pokemon captura los a todos y descubre todos los secretos de esta exótica región, una gran aventura te espera junto a los misteriosos Movimientos-Z</span></p></div>
-                </figcaption>
+              <img src="http://localhost:8080/prestashop/modules/ps_imageslider/images/7ef6e91c52a2befbde9687fe01d9552f3643e4e0_Carrusel1.jpg" alt="">
                           </figure>
           </a>
         </li>
               <li class="carousel-item " role="option" aria-hidden="true">
-          <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-ES&amp;utm_content=download">
+          <a href="http://localhost:8080/prestashop/inicio/27-halo-5.html">
             <figure>
-              <img src="http://localhost:8080/prestashop/modules/ps_imageslider/images/sample-2.jpg" alt="sample-2">
-                              <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase">Sample 2</h2>
-                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
-                </figcaption>
+              <img src="http://localhost:8080/prestashop/modules/ps_imageslider/images/840e64f2342ad1a2ebb2c201154b583e2e379d67_Carrusel2.jpg" alt="">
                           </figure>
           </a>
         </li>
               <li class="carousel-item " role="option" aria-hidden="true">
-          <a href="http://www.prestashop.com/?utm_source=back-office&amp;utm_medium=v17_homeslider&amp;utm_campaign=back-office-ES&amp;utm_content=download">
+          <a href="http://localhost:8080/prestashop/inicio/36--black-clover-quartet-knights.html">
             <figure>
-              <img src="http://localhost:8080/prestashop/modules/ps_imageslider/images/sample-3.jpg" alt="sample-3">
-                              <figcaption class="caption">
-                  <h2 class="display-1 text-uppercase">Sample 3</h2>
-                  <div class="caption-description"><h3>EXCEPTEUR OCCAECAT</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique in tortor et dignissim. Quisque non tempor leo. Maecenas egestas sem elit</p></div>
-                </figcaption>
+              <img src="http://localhost:8080/prestashop/modules/ps_imageslider/images/066311a71f02342b738e59e3fdd5cdaf3650ac47_Carrusel3.jpg" alt="">
                           </figure>
           </a>
         </li>

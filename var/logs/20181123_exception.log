@@ -1,0 +1,12 @@
+*ERROR* 	v1.7.4.2	2018/11/23 - 18:34:44: Link to database cannot be established: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2018/11/23 - 18:34:45: Link to database cannot be established: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2018/11/23 - 18:34:47: Link to database cannot be established: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2018/11/23 - 18:34:49: Link to database cannot be established: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2018/11/23 - 18:34:53: Link to database cannot be established: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ at line 120 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.4.2	2018/11/23 - 18:34:55: Link to database cannot be established: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ at line 120 in file classes/db/DbPDO.php

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-09-04 12:31:15
+/* Smarty version 3.1.32, created on 2018-11-26 13:01:04
   from 'module:pscustomtextpscustomtext.' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5b8ea543b44e10_90800809',
+  'unifunc' => 'content_5bfc18c081adf7_10170734',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,12 +18,10 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5b8ea543b44e10_90800809 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bfc18c081adf7_10170734 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\xampp\htdocs\prestashop/modules/ps_customtext/ps_customtext.tpl -->
 <div id="custom-text">
-  <h2>Custom Text Block</h2>
-<p><strong class="dark">Lorem ipsum dolor sit amet conse ctetu</strong></p>
-<p>Sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
+  <p><strong>Bienvenidos a videojuegos Roalches espero gasten mucho dinero y encuentren lo que buscan</strong></p>
 </div>
 <!-- end C:\xampp\htdocs\prestashop/modules/ps_customtext/ps_customtext.tpl --><?php }
 }
